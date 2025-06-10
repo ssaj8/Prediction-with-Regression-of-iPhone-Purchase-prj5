@@ -1,4 +1,4 @@
-# Prediction-with-Regression-of-iPhone-Purchase
+# Prediction-with-Regression-of-iPhone-Purchase-prj5
 iPhone Purchase Prediction
 Project_using_KNN
 
